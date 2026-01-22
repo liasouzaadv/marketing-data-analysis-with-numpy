@@ -64,9 +64,9 @@ Além disso, o NumPy é a **base do ecossistema de ciência de dados em Python**
 ---
 
 ##  Estrutura do Repositório
-├── Mini-projeto_Analise_Estatistica_Marketing_NumPy.ipynb
-├── README.md
-└── requirements.txt
+- Mini-projeto_Analise_Estatistica_Marketing_NumPy.ipynb
+- README.md
+- requirements.txt
 
 ---
 
